@@ -8,7 +8,9 @@
 	- and I click on 'Selenium HQ' link
 - Then I´m on Selenium HQ Page
 
-## Tools used
+## Tools and Frameworks used
+This web automation is developed based on ***"Page object pattern"***. This helps in reducing code redundancy and helps maintainability and isolation from the page and Test layers. Given below are some of the Test tools and frameworks used for this project
+
 - IntelliJ community edition - IDE used
 - Java - Programming language used (18.0.2.1)
 - Selenium - org.openqa.selenium library to identify elements and perform actions on web
